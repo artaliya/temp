@@ -1,5 +1,6 @@
 body {
-    background-color: lightgray;
+    background-color: #f8f8ff;
+    margin: 0;
   }
   a {
     font-size: large;
@@ -7,4 +8,25 @@ body {
   .pageheader {
     width: 100%;
     text-align: center;
+    margin: 0;
+    padding: 15px 0 15px 0;
+    color: white;
+  }
+
+  header {
+    background-color: #b4935d;
+  }
+
+  nav {
+    background-color: wheat;
+    padding: 10px 0 10px 0;
+  }
+
+  nav > a {
+    padding: 10px;
+
+  }
+
+  nav > a:hover {
+    background-color: rgba(255, 255, 255, 0.35);
   }
