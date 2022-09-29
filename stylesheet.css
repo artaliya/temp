@@ -4,3 +4,7 @@ body {
   a {
     font-size: large;
   }
+  .pageheader {
+    width: 100%;
+    text-align: center;
+  }
