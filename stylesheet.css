@@ -1,6 +1,7 @@
 body {
   background-color: #f8f8ff;
   margin: 0;
+  font-family: sans-serif;
 }
 
 a {
@@ -13,10 +14,13 @@ h1 {
   margin: 0;
   padding: 15px 0 15px 0;
   color: white;
+  font-family: serif;
 }
 
 header {
   background-color: #b4935d;
+  display: flex;
+  flex-direction: column;
 }
 
 nav {
